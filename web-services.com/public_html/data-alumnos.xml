@@ -1,0 +1,10 @@
+<alumnos>
+	<alumno>
+		<codigo>001</codigo>
+		<nombre>Luis</nombre>
+	</alumno>
+	<alumno>
+		<codigo>002</codigo>
+		<nombre>ALBERTO</nombre>
+	</alumno>
+</alumnos>
